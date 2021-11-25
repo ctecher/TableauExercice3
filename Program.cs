@@ -13,7 +13,7 @@ namespace TableauExercice3
         /// </summary>
         /// <param name="notes">Tableau de notes</param>
         /// <returns>moyene calculée</returns>
-        static float moyenne(float[])
+        static float moyenne(float[] ...)
         {
             ...            
             return moyenne;
